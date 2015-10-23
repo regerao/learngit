@@ -4,3 +4,4 @@ add file content
 fix file content
 delete content
 continue modify
+test publish
