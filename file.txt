@@ -2,3 +2,5 @@ add new file
 test github
 add file content
 fix file content
+delete content
+continue modify
